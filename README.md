@@ -1,0 +1,2 @@
+# Grocery-Ordering-System_mid-Project
+This project aims to build an "Online Groceries Ordering System" to provide an online platform for customers to order their desired products. The main motivating factor of the system is, that the admin can control the whole system, the seller can upload or manage the products available in the system and the customer can view available products or search for them and order them through the system.And finally, the system will assign deliverymen for delivering the products to the customer.
